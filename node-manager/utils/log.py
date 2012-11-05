@@ -1,7 +1,5 @@
 import logging
-import sys
-sys.path.append("..")
-from settings import Settings
+from settings import Settings, PROJECT_ROOT
 from colorama import Fore, Back, Style
 
 class Logger(object):
@@ -9,7 +7,7 @@ class Logger(object):
     def __init__(self):
         sets = Settings()
         logging.basicConfig(
-            filename=sets.get_item('core','log_file'),
+            filename=PROJECT_ROOT+"/"+sets.get_item('core','log_file'),
             format="%(asctime)s %(message)s",
             level=logging.DEBUG)
     

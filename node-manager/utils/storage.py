@@ -1,7 +1,6 @@
-import sys
-sys.path.append("..")
 from utils.server import execute_command
 from utils.log import Logger    
+
 
 class Storage(object):
     

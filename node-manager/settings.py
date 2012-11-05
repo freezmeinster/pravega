@@ -1,9 +1,13 @@
+import os
 from glob import glob
 from ConfigParser import ConfigParser
 
+PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
+
 class Settings(object):
     def __init__(self):
-        self.confs = glob("config/*.conf")
+        
+        self.confs = glob("%s/config/*.conf" % PROJECT_ROOT)
         self.__parse_config()
         self.__join_config()
     

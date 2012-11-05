@@ -1,5 +1,3 @@
-import sys
-sys.path.append("..")
 
 class Interface(object):
     pass

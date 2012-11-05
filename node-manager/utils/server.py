@@ -1,5 +1,3 @@
-import sys
-sys.path.append("..")
 import subprocess
 from log import Logger
 from settings import Settings
@@ -169,3 +167,5 @@ class Server(object):
             (self.daemon.locationStr)
             )
         self.daemon.requestLoop()
+
+   

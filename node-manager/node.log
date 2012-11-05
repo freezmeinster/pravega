@@ -1,6 +1,7 @@
-2012-11-06 01:24:23,809 [Object] Exposing object Storage in PYRO:Storage@192.168.0.1:9090
-2012-11-06 01:24:23,814 [OperatingSystem] Succesed load kernel module aufs
-2012-11-06 01:24:23,832 [OperatingSystem] Succesed load kernel module squashfs
-2012-11-06 01:24:23,860 [OperatingSystem] Succesed load kernel module dummy
-2012-11-06 01:24:23,879 [OperatingSystem] Succesed load kernel module veth
-2012-11-06 01:24:23,899 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-06 03:22:41,498 [OperatingSystem] Succesed load kernel module aufs
+2012-11-06 03:22:41,518 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-06 03:22:41,537 [OperatingSystem] Succesed load kernel module dummy
+2012-11-06 03:22:41,556 [OperatingSystem] Succesed load kernel module veth
+2012-11-06 03:22:41,578 Storage alrady in use
+2012-11-06 03:22:41,579 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:4000
+2012-11-06 03:22:41,579 [Server] Node Manager Server successfuly run at 192.168.0.1:4000
