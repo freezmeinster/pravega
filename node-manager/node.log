@@ -136,3 +136,190 @@
 2012-11-17 22:19:38,343 [OperatingSystem] Succesed load kernel module veth
 2012-11-17 22:19:38,369 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
 2012-11-17 22:20:42,455 [Object] Client 192.168.1.1 contacting unknown object Storage
+2012-11-19 11:45:14,426 [Server] Server can't bind to address 192.168.1.1, Node Manager not detect this IP belonging this Server
+2012-11-19 11:45:20,627 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 11:45:20,648 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 11:45:20,673 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 11:45:20,715 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 11:46:05,861 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 11:46:05,904 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 11:46:05,930 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 11:46:05,960 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 11:46:05,984 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 11:57:29,331 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 11:57:29,350 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 11:57:29,369 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 11:57:29,392 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 11:57:29,422 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 14:04:17,179 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 14:04:17,201 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 14:04:17,223 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 14:04:17,247 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 14:04:17,272 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 14:34:12,046 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 14:34:12,068 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 14:34:12,089 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 14:34:12,113 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 14:34:12,141 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 14:34:14,706 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 14:35:05,427 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 14:35:05,447 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 14:35:05,468 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 14:35:05,489 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 14:35:05,521 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 14:35:07,465 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:12:26,593 [Server] Server can't bind to address 192.168.1.1, Node Manager not detect this IP belonging this Server
+2012-11-19 15:12:54,397 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 15:12:54,418 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 15:12:54,440 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 15:12:54,523 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 15:12:54,561 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 15:22:55,840 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 15:22:55,862 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 15:22:55,883 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 15:22:55,904 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 15:22:55,933 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 15:23:10,077 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:23:13,747 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:23:14,328 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:23:14,603 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:23:14,837 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:23:15,038 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:23:15,230 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:23:50,394 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:25:01,350 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 15:25:01,373 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 15:25:01,393 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 15:25:01,415 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 15:25:01,444 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 15:25:19,492 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:29:16,354 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:29:47,223 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:30:18,287 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:30:49,112 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:31:02,721 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:31:02,724 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:31:46,237 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:32:11,971 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:32:23,961 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:32:26,286 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:33:06,643 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:33:50,909 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:33:50,912 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:34:05,774 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:34:18,990 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:34:34,748 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:34:59,370 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:35:15,586 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:35:35,210 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:36:04,242 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:36:49,066 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:36:57,019 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:36:57,023 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:37:11,784 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:37:11,787 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:37:30,453 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:37:46,564 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:37:56,111 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:39:26,405 [Server] Server can't bind to address 192.168.1.1, Node Manager not detect this IP belonging this Server
+2012-11-19 15:39:33,940 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 15:39:33,965 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 15:39:33,986 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 15:39:34,007 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 15:39:34,035 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 15:39:37,045 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:40:03,388 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:40:10,939 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:40:19,496 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:40:19,500 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:40:50,637 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:42:47,977 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:47:09,663 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 15:47:09,681 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 15:47:09,702 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 15:47:09,722 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 15:47:09,749 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 15:47:11,793 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:47:41,894 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:47:46,001 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 15:47:46,023 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 15:47:46,045 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 15:47:46,067 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 15:47:46,098 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 15:47:48,569 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:48:01,143 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:48:26,432 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:49:34,633 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:50:00,663 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 15:50:00,681 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 15:50:00,701 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 15:50:00,725 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 15:50:00,751 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 15:50:03,013 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 15:50:20,474 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 15:50:20,497 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 15:50:20,519 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 15:50:20,541 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 15:50:20,570 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-19 15:50:28,926 [Object] Client 192.168.1.1 contacting object Vrm
+2012-11-19 16:02:21,070 [Server] Server can't bind to address 192.168.1.1, Node Manager not detect this IP belonging this Server
+2012-11-19 16:03:02,045 [Server] Server can't bind to address 192.168.1.6, Node Manager not detect this IP belonging this Server
+2012-11-19 16:03:12,746 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 16:03:12,771 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 16:03:12,790 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 16:03:12,810 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 16:03:12,834 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-19 16:03:15,830 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:03:27,450 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:26:59,003 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:27:12,382 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:27:25,219 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:27:36,903 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:30:22,285 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:30:24,452 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 16:30:24,475 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 16:30:24,497 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 16:30:24,521 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 16:30:24,550 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-19 16:30:26,566 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:31:20,808 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 16:31:20,834 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 16:31:20,857 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 16:31:20,882 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 16:31:20,910 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-19 16:31:22,946 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:31:22,946 Instance labnet already created
+2012-11-19 16:31:46,901 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 16:31:46,923 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 16:31:46,946 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 16:31:46,967 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 16:31:46,995 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-19 16:31:49,444 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:31:49,444 [Vrm] Instance labnet already created
+2012-11-19 16:32:08,595 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:32:08,596 [Vrm] Instance labnet already created
+2012-11-19 16:33:05,060 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 16:33:05,080 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 16:33:05,102 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 16:33:05,122 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 16:33:05,149 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-19 16:33:07,850 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:33:07,850 [Vrm] Instance labnet already created
+2012-11-19 16:33:58,379 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 16:33:58,403 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 16:33:58,427 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 16:33:58,449 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 16:33:58,480 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-19 16:34:00,336 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:49:49,624 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 16:49:49,649 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 16:49:49,671 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 16:49:49,695 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 16:49:49,723 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-19 16:49:52,164 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-19 16:51:50,103 [OperatingSystem] Succesed load kernel module aufs
+2012-11-19 16:51:50,124 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-19 16:51:50,148 [OperatingSystem] Succesed load kernel module dummy
+2012-11-19 16:51:50,173 [OperatingSystem] Succesed load kernel module veth
+2012-11-19 16:51:50,201 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-19 16:51:51,981 [Object] Client 192.168.1.6 contacting object Vrm
