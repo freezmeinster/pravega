@@ -5,3 +5,134 @@
 2012-11-06 03:22:41,578 Storage alrady in use
 2012-11-06 03:22:41,579 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:4000
 2012-11-06 03:22:41,579 [Server] Node Manager Server successfuly run at 192.168.0.1:4000
+2012-11-17 21:31:19,650 [Server] Server can't bind to address 192.168.0.1, Node Manager not detect this IP belonging this Server
+2012-11-17 21:32:04,644 [Server] Server can't bind to address 192.168.0.1, Node Manager not detect this IP belonging this Server
+2012-11-17 21:33:20,739 [Server] Server can't bind to address 192.168.0.1, Node Manager not detect this IP belonging this Server
+2012-11-17 21:33:34,969 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:33:34,988 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:33:35,009 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:33:35,049 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:33:35,078 Storage alrady in use
+2012-11-17 21:33:35,079 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:33:35,079 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 21:33:50,460 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:33:50,482 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:33:50,502 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:33:50,522 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:33:50,547 Storage alrady in use
+2012-11-17 21:33:50,547 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:4000
+2012-11-17 21:33:50,547 [Server] Node Manager Server successfuly run at 192.168.0.1:4000
+2012-11-17 21:37:45,608 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:37:45,630 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:37:45,658 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:37:45,687 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:37:45,712 Storage alrady in use
+2012-11-17 21:37:45,712 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:4000
+2012-11-17 21:37:45,712 [Server] Node Manager Server successfuly run at 192.168.0.1:4000
+2012-11-17 21:37:47,590 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:37:47,609 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:37:47,629 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:37:47,651 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:37:47,673 Storage alrady in use
+2012-11-17 21:37:47,673 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:4000
+2012-11-17 21:37:47,674 [Server] Node Manager Server successfuly run at 192.168.0.1:4000
+2012-11-17 21:38:44,115 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:38:44,134 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:38:44,153 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:38:44,176 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:38:44,201 Storage alrady in use
+2012-11-17 21:38:44,201 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:38:44,201 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 21:50:02,906 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:50:02,926 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:50:02,950 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:50:02,974 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:50:02,998 Storage alrady in use
+2012-11-17 21:50:02,999 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:50:02,999 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 21:52:59,114 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:52:59,132 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:52:59,153 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:52:59,174 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:52:59,197 Storage alrady in use
+2012-11-17 21:52:59,198 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:52:59,198 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 21:53:29,973 [Object] Client 192.168.0.1 contacting unknown object Storage
+2012-11-17 21:56:41,731 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:56:41,755 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:56:41,777 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:56:41,799 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:56:41,823 Storage alrady in use
+2012-11-17 21:56:41,824 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:56:41,824 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 21:57:02,703 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:57:02,723 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:57:02,743 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:57:02,765 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:57:02,791 Storage alrady in use
+2012-11-17 21:57:02,791 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:57:02,791 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 21:57:20,080 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:57:20,098 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:57:20,118 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:57:20,141 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:57:20,167 Storage alrady in use
+2012-11-17 21:57:20,167 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:57:20,169 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 21:57:56,243 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:57:56,261 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:57:56,278 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:57:56,296 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:57:56,317 Storage alrady in use
+2012-11-17 21:57:56,317 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:57:56,317 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 21:59:10,238 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:59:10,257 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:59:10,276 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:59:10,296 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:59:10,317 Storage alrady in use
+2012-11-17 21:59:10,318 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:59:10,318 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 21:59:50,886 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 21:59:50,906 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 21:59:50,927 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 21:59:50,946 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 21:59:50,968 Storage alrady in use
+2012-11-17 21:59:50,968 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 21:59:50,969 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 22:01:20,681 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 22:01:20,701 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 22:01:20,720 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 22:01:20,739 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 22:01:20,761 Storage alrady in use
+2012-11-17 22:01:20,761 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 22:01:20,762 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 22:01:23,292 [Object] Client 192.168.0.1 contacting unknown object Storage
+2012-11-17 22:02:00,474 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 22:02:00,494 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 22:02:00,513 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 22:02:00,532 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 22:02:00,554 Storage alrady in use
+2012-11-17 22:02:00,554 [Object] Exposing object Vrm in PYRO:Vrm@192.168.0.1:9090
+2012-11-17 22:02:00,555 [Server] Node Manager Server successfuly run at 192.168.0.1:9090
+2012-11-17 22:02:03,601 [Object] Client 192.168.0.1 contacting unknown object Storage
+2012-11-17 22:02:40,400 [Server] Server can't bind to address 192.168.1.1, Node Manager not detect this IP belonging this Server
+2012-11-17 22:02:47,090 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 22:02:47,111 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 22:02:47,132 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 22:02:47,154 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 22:02:47,181 Storage alrady in use
+2012-11-17 22:02:47,181 [Object] Exposing object Vrm in PYRO:Vrm@192.168.1.1:9090
+2012-11-17 22:02:47,182 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-17 22:18:51,299 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 22:18:51,321 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 22:18:51,341 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 22:18:51,365 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 22:18:51,391 [Object] Exposing object Vrm in PYRO:Vrm@192.168.1.1:9090
+2012-11-17 22:18:51,391 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-17 22:19:38,276 [OperatingSystem] Succesed load kernel module aufs
+2012-11-17 22:19:38,298 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-17 22:19:38,320 [OperatingSystem] Succesed load kernel module dummy
+2012-11-17 22:19:38,343 [OperatingSystem] Succesed load kernel module veth
+2012-11-17 22:19:38,369 [Server] Node Manager Server successfuly run at 192.168.1.1:9090
+2012-11-17 22:20:42,455 [Object] Client 192.168.1.1 contacting unknown object Storage

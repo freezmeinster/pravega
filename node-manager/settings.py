@@ -19,7 +19,7 @@ class Settings(object):
     
     def __join_config(self):
         conf = ConfigParser()
-        conf.read(['node.conf'])
+        conf.read(['%s/node.conf' % PROJECT_ROOT])
         for section_name in conf.sections():
             for name,value in conf.items(section_name):
                 self.config_parse.set(section_name,name,value)

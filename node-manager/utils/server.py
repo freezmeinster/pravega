@@ -1,3 +1,4 @@
+import sys
 import subprocess
 from log import Logger
 from settings import Settings
@@ -155,10 +156,6 @@ class Server(object):
     def hook_object(self,obj,id=None):
         if id == None :
             id = obj.__class__.__name__
-            
-        self.logger.success(
-            "[Object] Exposing object %s in PYRO:%s@%s:%s" %
-            (obj.__class__.__name__, id, self.host, self.port))
         self.uri = self.daemon.register(obj,objectId=id)
     
     def run(self):
