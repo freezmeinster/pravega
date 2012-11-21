@@ -11,7 +11,6 @@ class Vrm(object):
         self.driver = None
         self.ip = None
         self.memory = None
-        self.storage = None
         self.synced = False
         self.logger = Logger()
         self.settings = Settings()
@@ -37,8 +36,4 @@ class Vrm(object):
     def __init_vm(self,memory,ip,storage):
         pass
     
-    def __check_vm(self):
-        driver_char = "driver_%s" % self.driver
-        repo_dir = self.settings.get_item(driver_char,"repo_dir")
-        vm_dir = os.path.join(repo_dir,self.vm_name)
-        return os.path.isdir(vm_dir)
+    
