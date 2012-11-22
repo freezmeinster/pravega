@@ -5,7 +5,6 @@ from settings import Settings
 
 class Storage(object):
     def __init__(self,name,driver,vg=None,size=None):
-        self.owner = owner
         self.name = name
         self.size = size
         self.volume_group = vg

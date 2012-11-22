@@ -330,3 +330,356 @@
 2012-11-21 13:55:56,403 [OperatingSystem] Succesed load kernel module veth
 2012-11-21 13:55:56,458 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
 2012-11-21 13:56:39,076 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:09:48,520 [Server] Server can't bind to address 192.168.1.6, Node Manager not detect this IP belonging this Server
+2012-11-22 10:09:56,017 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:09:56,036 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:09:56,055 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:09:56,093 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:09:56,124 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:10:08,284 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:23:44,582 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:25:42,149 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:25:42,171 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:25:42,192 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:25:42,215 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:25:42,240 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:25:45,008 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:36:01,462 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:36:01,482 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:36:01,504 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:36:01,525 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:36:01,552 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:36:03,961 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:36:24,941 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:36:29,407 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:36:29,427 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:36:29,449 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:36:29,472 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:36:29,498 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:36:31,327 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:51:17,747 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:51:17,766 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:51:17,785 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:51:17,804 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:51:17,828 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:51:20,845 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:51:45,479 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:51:45,502 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:51:45,522 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:51:45,543 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:51:45,569 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:51:48,183 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:52:44,041 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:52:44,062 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:52:44,084 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:52:44,106 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:52:44,132 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:52:46,244 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:56:21,663 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:56:21,685 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:56:21,705 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:56:21,727 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:56:21,753 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:56:23,930 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:57:26,451 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:57:26,471 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:57:26,493 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:57:26,515 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:57:26,542 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:57:28,307 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:57:56,202 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:57:56,222 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:57:56,244 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:57:56,265 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:57:56,290 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:57:58,906 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:58:28,183 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:58:28,206 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:58:28,227 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:58:28,248 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:58:28,273 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:58:30,623 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:58:30,626 [Vrm] Driver Object successfuly initialized for vm labnet
+2012-11-22 10:58:58,151 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 10:58:58,172 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 10:58:58,193 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 10:58:58,215 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 10:58:58,242 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 10:59:00,890 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:00,893 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 10:59:32,356 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:32,356 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:44,351 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:44,351 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:44,615 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:44,615 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:44,870 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:44,871 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:45,101 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:45,101 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:45,340 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:45,340 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:45,585 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:45,586 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:45,802 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:45,802 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:46,501 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:46,501 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:46,724 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:46,725 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:46,971 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:46,971 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:47,206 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:47,206 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:47,474 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:47,475 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:47,684 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:47,684 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:47,932 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:47,933 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:48,173 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:48,173 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:48,403 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:48,403 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:48,636 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:48,637 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 10:59:48,842 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 10:59:48,842 [Vrm] Invalid or not supported Driver, lax
+2012-11-22 11:01:53,610 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 11:01:53,613 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 12:58:50,414 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 12:58:50,433 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 12:58:50,453 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 12:58:50,473 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 12:58:50,498 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 12:59:14,081 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 12:59:55,225 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 12:59:55,247 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 12:59:55,271 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 12:59:55,293 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 12:59:55,325 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 12:59:57,511 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:00:18,300 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:00:47,673 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:00:47,693 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:00:47,714 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:00:47,735 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:00:47,761 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:00:49,777 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:01:41,301 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:01:41,326 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:01:41,349 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:01:41,371 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:01:41,397 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:01:45,389 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:02:46,421 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:02:46,442 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:02:46,462 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:02:46,483 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:02:46,507 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:02:48,635 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:05:54,594 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:05:54,616 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:05:54,642 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:05:54,665 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:05:54,693 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:05:56,940 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:06:38,379 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:06:38,401 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:06:38,423 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:06:38,444 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:06:38,470 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:06:40,717 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:07:01,807 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:07:01,828 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:07:01,849 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:07:01,873 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:07:01,900 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:07:04,253 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:07:58,821 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:07:58,840 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:07:58,862 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:07:58,881 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:07:58,908 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:08:01,142 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:08:32,831 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:08:32,861 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:08:32,880 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:08:32,902 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:08:32,927 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:08:35,514 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:09:02,609 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:09:02,632 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:09:02,655 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:09:02,678 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:09:02,705 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:09:05,239 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:09:19,623 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:09:19,644 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:09:19,667 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:09:19,689 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:09:19,716 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:09:21,942 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:09:54,102 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:09:54,122 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:09:54,143 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:09:54,162 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:09:54,187 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:09:56,376 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:10:13,496 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:10:16,148 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:10:16,171 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:10:16,192 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:10:16,217 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:10:16,244 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:10:20,164 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:10:20,194 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:13:37,734 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:13:37,758 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:13:37,786 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:13:37,810 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:13:37,844 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:13:40,179 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:15:44,692 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:15:44,719 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:15:44,743 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:15:44,766 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:15:44,791 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:15:48,782 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:15:48,812 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:23:55,813 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:23:55,833 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:23:55,853 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:23:55,874 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:23:55,900 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:23:57,962 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:23:57,991 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:23:57,995 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:24:47,291 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:24:47,311 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:24:47,335 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:24:47,355 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:24:47,382 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:24:50,186 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:24:50,216 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:24:50,220 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:29:24,914 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:29:24,945 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:29:24,976 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:29:25,006 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:29:25,041 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:29:31,435 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:29:31,489 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:29:31,493 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:31:16,509 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:31:16,533 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:31:16,555 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:31:16,577 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:31:16,603 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:31:19,845 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:31:19,926 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:31:19,929 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:31:19,930 [Vrm] Instance vs-labnet already created
+2012-11-22 13:33:57,521 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:33:57,542 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:33:57,563 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:33:57,583 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:33:57,607 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:34:22,790 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:34:22,841 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:34:22,845 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:45:47,676 [Server] Server can't bind to address 192.168.1.6, Node Manager not detect this IP belonging this Server
+2012-11-22 13:45:57,723 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:45:57,741 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:45:57,760 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:45:57,798 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:45:57,826 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:46:04,028 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:46:04,282 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:46:04,285 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:46:04,286 [Vrm] Instance vs-labnet already created
+2012-11-22 13:46:26,419 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:46:26,460 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:46:26,464 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:46:26,464 [Vrm] Instance vs-labnet already created
+2012-11-22 13:46:42,246 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:46:42,263 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:46:42,283 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:46:42,303 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:46:42,329 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:46:48,098 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:46:48,147 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:46:48,151 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:48:23,055 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:48:23,076 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:48:23,096 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:48:23,121 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:48:23,147 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:49:16,506 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:49:16,527 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:49:16,548 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:49:16,569 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:49:16,595 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:49:21,713 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:49:21,720 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:49:21,723 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:51:27,226 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:51:27,523 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:51:27,527 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:51:27,527 [Vrm] Instance vs-labnet already created
+2012-11-22 13:54:47,578 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:54:47,601 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:54:47,622 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:54:47,645 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:54:47,673 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:55:00,826 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:55:00,833 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:55:00,836 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:56:21,647 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:56:21,669 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:56:21,693 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:56:21,716 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:56:21,745 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:56:26,620 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:56:26,627 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:56:26,631 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:58:19,125 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 13:58:19,148 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 13:58:19,169 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 13:58:19,193 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 13:58:19,221 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 13:58:23,316 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:58:23,323 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 13:58:23,326 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 13:58:27,829 [Vrm] Instance vs-labnet successfuly created
+2012-11-22 14:01:03,661 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 14:01:03,682 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 14:01:03,704 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 14:01:03,739 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 14:01:03,768 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 14:01:11,454 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 14:01:11,460 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 14:01:11,464 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 14:01:15,128 [Vrm] Instance vs-labnet successfuly created
+2012-11-22 14:02:44,070 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 14:02:44,092 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 14:02:44,119 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 14:02:44,144 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 14:02:44,172 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 14:02:47,499 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 14:02:47,505 [Vrm] Driver Object successfuly initialized for VirtualMacnine labnet
+2012-11-22 14:02:47,508 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 14:02:51,524 [Vrm] Instance vs-labnet successfuly created
+2012-11-22 14:06:14,383 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 14:06:14,386 [Vrm] Driver Object successfuly initialized for VirtualMacnine zia
+2012-11-22 14:06:14,389 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 14:06:18,029 [Vrm] Instance vs-zia successfuly created
+2012-11-22 14:14:00,506 [OperatingSystem] Succesed load kernel module aufs
+2012-11-22 14:14:00,527 [OperatingSystem] Succesed load kernel module squashfs
+2012-11-22 14:14:00,547 [OperatingSystem] Succesed load kernel module dummy
+2012-11-22 14:14:00,567 [OperatingSystem] Succesed load kernel module veth
+2012-11-22 14:14:00,593 [Server] Node Manager Server successfuly run at 192.168.1.6:9090
+2012-11-22 14:14:06,162 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 14:14:06,169 [Vrm] Driver Object successfuly initialized for VirtualMacnine zia
+2012-11-22 14:14:06,173 [Object] Client 192.168.1.6 contacting object Vrm
+2012-11-22 14:14:09,980 [Vrm] Instance vs-zia successfuly created
